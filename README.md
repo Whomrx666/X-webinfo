@@ -1,6 +1,5 @@
 # X-webinfo
 ![X-webinfo preview](X-webinfo.jpg)
-[![License](https://img.shields.io/badge/Licenese-MIT-blue.svg?longCache=true&style=flat)](https://github.com/Whomrx666/X-webinfo/blob/main/LICENSE) 
 
 ## introduction
 > A website information gathering tool for termux
